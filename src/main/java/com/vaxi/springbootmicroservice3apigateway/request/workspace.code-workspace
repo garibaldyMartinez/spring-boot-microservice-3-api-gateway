@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../spring-boot-microservice-1-inmueble"
+		},
+		{
+			"path": "../../../../../../../../spring-boot-microservice-2-compra"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
